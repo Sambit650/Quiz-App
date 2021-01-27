@@ -9,6 +9,7 @@ import Foundation
 
 class Question{
     
+    //MARK:- Variables
     var questionText : String
     var answer : Bool
     
